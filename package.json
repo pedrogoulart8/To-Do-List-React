@@ -1,7 +1,7 @@
 {
   "name": "to-do-list",
   "version": "0.1.0",
-  "homepage": "https://pedrogoulart8.github.io/to-to-list-react/",
+  "homepage": "https://pedrogoulart8.github.io/to-to-list-react",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.5",
